@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ilyamixaltik/lesson-report/issues"
   },
-  "homepage": "https://github.com/ilyamixaltik/lesson-report#readme"
+  "homepage": "https://github.com/ilyamixaltik/lesson-report#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
